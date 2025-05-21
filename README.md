@@ -77,7 +77,7 @@ app/src/main/assets/sakeshop.json
 - Handle errors and loading states gracefully
 - UI tests with Espresso / Compose Test
 - Mark favorite shops (local persistence)
-- Support dark mode (✅ Already done!)
+- ~Support dark mode~ (✅ Already done!)
 
 ---
 
