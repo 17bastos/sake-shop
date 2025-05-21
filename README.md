@@ -23,11 +23,10 @@ This is a mobile application built as part of a technical assessment for a Mobil
 The app follows **Clean Architecture** and the **MVVM** pattern, using modern Android development tools:
 
 com.leandro.sakeshop
-│
-├── data // DTOs, local data source, repository implementation
-├── domain // Business logic: models, use cases, repository interface
-├── presentation // UI with Jetpack Compose, ViewModels, Navigation
-├── core // Dependency Injection (Hilt), utility classes
+- data // DTOs, local data source, repository implementation
+- domain // Business logic: models, use cases, repository interface
+- presentation // UI with Jetpack Compose, ViewModels, Navigation
+- core // Dependency Injection (Hilt), utility classes
 
 
 ---
@@ -68,7 +67,6 @@ All the sake shop data is loaded from a local JSON file located at:
 
 app/src/main/assets/sakeshop.json
 
-
 ---
 
 ## ✅ Potential Improvements (If Given More Time)
@@ -86,8 +84,8 @@ app/src/main/assets/sakeshop.json
 ## 👨‍💻 Author
 
 **Leandro Bastos**  
-GitHub: [github.com/leandro-bastos](https://github.com/leandro-bastos)  
-Email: leandro@example.com *(replace with your actual email)*
+GitHub: [github.com/17bastos](https://github.com/17bastos)  
+Email: hello@leandrobastos.dev
 
 ---
 
